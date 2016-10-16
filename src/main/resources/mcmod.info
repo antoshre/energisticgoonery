@@ -1,0 +1,16 @@
+[
+{
+  "modid": "energisticgoonery",
+  "name": "Energistic Goonery",
+  "description": "AE2 + Infusions.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thegreatunclean"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [thaumicenergistics]
+}
+]
